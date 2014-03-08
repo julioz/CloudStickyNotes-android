@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_yellow">#FFE4C100</color>
+    <color name="card_background_yellow">#ffb31a</color>
+    <color name="card_background_green">#98CC00</color>
+    <color name="card_background_purple">#A966CC</color>
+    <color name="card_background_blue">#33B4E4</color>
+    <color name="card_background_red">#FF4343</color>
+    <color name="messagefragment_image_color">#CECECE</color>
+    <color name="messagefragment_dark_color">#BEBEBE</color>
+
+</resources>

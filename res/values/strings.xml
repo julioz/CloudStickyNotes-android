@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cloud Sticky Notes</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_newnote">Criar nota</string>
+    <string name="confirmdialog_title">Tem certeza?</string>
+    <string name="confirmlogout">Fazer logout?</string>
+    <string name="confirmdialog_notedeletion">Deletar esta nota?</string>
+    <string name="editnote">Editar nota</string>
+    <string name="editnote_emptyvalue">A nota não pode ficar vazia!</string>
+    <string name="uploadsuccessful">Arquivo atualizado com sucesso!</string>
+    
+    <string name="pleaselogin_title">Você não está logado!</string>
+    <string name="pleaselogin_message">Você precisa fazer login para sincronizar suas notas</string>
+    <string name="loading_title">Aguarde</string>
+    <string name="loading_message">Sincronizando suas notas…</string>
+
+</resources>
