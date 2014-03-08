@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.github.com/julioz/CloudStickyNotes-android/master/img_stickynotes.png" width="250" />
+</p>
 Cloud Sticky Notes
 ========================
 
